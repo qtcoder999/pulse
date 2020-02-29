@@ -1,0 +1,78 @@
+
+---Downloaded files---
+The import files for: Default Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pulse
+Data file = /Applications/XAMPP/xamppfiles/htdocs/pulse/wp-content/plugins/theme-freesia-demo-import/files/dummy/magbook/default/magbook.wordpress.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/pulse/wp-content/plugins/theme-freesia-demo-import/files/dummy/magbook/default/magbook-widgets.wie
+Customizer file = /Applications/XAMPP/xamppfiles/htdocs/pulse/wp-content/plugins/theme-freesia-demo-import/files/dummy/magbook/default/magbook-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+TF: Category Box Two Layout Widget - Fashion - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Top Header Info : 
+
+Custom HTML - No Title - Imported
+
+Header Banner : 
+
+Image - No Title - Imported
+
+Side Menu : 
+
+TF: Category Box Widget - No Title - Imported
+
+Magbook Template Section : 
+
+TF: Category Box Widget - Business - Imported
+Image - No Title - Imported
+TF: Category Box Two Layout Widget - Fashion - Imported
+TF: Category Box Widget - Science &amp; Tech - Imported
+TF: Category Box Widget - Sports - Imported
+
+Magbook Template Sidebar Section : 
+
+TF: Popular Posts, Tags and Comments - No Title - Imported
+Image - Advertisement - Imported
+TF: Category Box Two Layout Widget - Health - Imported
+
+Contact Page Sidebar : 
+
+Text - Contact Information - Imported
+
+Iframe Code For Google Maps : 
+
+Text - No Title - Imported
+
+Footer Column 1 : 
+
+Image - About Us - Imported
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+recent-posts-widget-with-thumbnails - Recent News - Site does not support widget
+
+Footer Column 3 : 
+
+Gallery - Gallery - Imported
+
+Footer Column 4 : 
+
+Custom HTML - Our Address - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
